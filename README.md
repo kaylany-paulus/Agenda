@@ -1,2 +1,3 @@
-# Agenda
-Template para solução do exercício Agenda do Dev Web.
+# Agenda-template
+
+Template para solução do exercício [Agenda](https://github.com/ermogenes/aulas-programacao-web/blob/master/exercises/ef-console.md#exerc%C3%ADcio-agenda) do Dev Web.
